@@ -1,7 +1,8 @@
 # ⛏️ Predicción de la extracción de oro con Machine Learning  
 
-## 🏢 Sobre la empresa  
+## 🏢 Objetivo  
 **Zyfra** desarrolla soluciones de eficiencia para la industria pesada.  
+
 El objetivo de este proyecto es crear un prototipo de modelo de **machine learning** que permita **predecir la cantidad de oro extraído del mineral**, a partir de los datos de extracción y purificación. Para evaluar el desempeño del modelo se utilizará la métrica sMAPE (Error porcentual absoluto medio simétrico), la cual permite medir la diferencia porcentual entre los valores reales y los valores predichos. Esta métrica es especialmente útil en problemas de predicción de cantidades, ya que proporciona una medida simétrica del error y facilita interpretar la fiabilidad del modelo en escenarios de producción.
 
 Este modelo busca optimizar la producción, eliminando parámetros no rentables y mejorando la toma de decisiones en la industria minera.  
