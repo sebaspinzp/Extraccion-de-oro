@@ -29,15 +29,19 @@ Este proyecto resuelve el problema mediante:
 
 ## ▶️ Cómo ejecutarlo  
 
-Descargar los datasets con la informacion obtenida durante la obtencion de oro.  
+- Descargar los datasets con la informacion obtenida durante la obtencion de oro.  
+
+- Abrir los archivos del proyecto en Jupyter Notebook.
+
+- Instalar las librerías necesarias con pip install -r requirements.txt.
 
 Ejecutar el script o notebook en este orden:
 
-1. preprocesamiento.ipynb → limpieza y preparación de datos.
+1. Preprocesamiento.ipynb → limpieza y preparación de datos.
 
-2. analisis_exploratorio.ipynb → análisis visual y estadístico.
+2. Analisis_exploratorio.ipynb → análisis visual y estadístico.
 
-3. modelo_prediccion.ipynb → creación, entrenamiento y evaluación del modelo.
+3. Modelo_prediccion.ipynb → creación, entrenamiento y evaluación del modelo.
 
 📚 Conclusiones generales
 
